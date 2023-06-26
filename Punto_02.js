@@ -1,10 +1,6 @@
 
 import './App.css';
 
-import './App.css';
-
-import './App.css';
-
 function mostrarTitulo(tit) {
   return (<h1>
     {tit}
